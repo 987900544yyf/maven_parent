@@ -1,0 +1,6 @@
+0:0:0:0:0:0:0:1 - - [14/Aug/2019:23:43:57 +0800] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [14/Aug/2019:23:43:58 +0800] "GET /maven_web HTTP/1.1" 302 - http-bio-8080-exec-2 0
+0:0:0:0:0:0:0:1 - - [14/Aug/2019:23:43:59 +0800] "GET /maven_web/ HTTP/1.1" 200 52 http-bio-8080-exec-4 1100
+0:0:0:0:0:0:0:1 - - [14/Aug/2019:23:43:59 +0800] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-5 0
+0:0:0:0:0:0:0:1 - - [14/Aug/2019:23:44:20 +0800] "GET /maven_web/items/findDetail HTTP/1.1" 404 1029 http-bio-8080-exec-6 792
+0:0:0:0:0:0:0:1 - - [14/Aug/2019:23:50:49 +0800] "GET /maven_web/items/findDetail HTTP/1.1" 200 754 http-bio-8080-exec-1 1070
